@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/Desktop/osbot.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/osbot.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/osbot.jar!/" />
+    </SOURCES>
   </library>
 </component>
